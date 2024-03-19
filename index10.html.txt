@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Print Successfully</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="print-container">
+        <div class="tick-mark">&#10004;</div>
+        <p><h1>successfull!<h1></p>
+    </div>
+    <div class="smile">
+        <image src="https://th.bing.com/th/id/OIP.xolscMnkO5SIAL5BFBSRpAHaHa?rs=1&pid=ImgDetMain"alt=THANKYOU height="150px">
+    </div>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>signup/login</title>
+	<link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+<body>
+    <div class="main">  
+			<div class="login">
+				<form>
+					<label for="chk" aria-hidden="true">LOGIN</label>
+					<input type="email" name="email" placeholder="Email" required="">
+					<input type="password" name="pswd" placeholder="Password" required="">
+                    <h6>FORGOT PASSWORD?</h6>
+					<a href="index10.html" class="custom-button">LOGIN</a>
+                    <a href="index4.html">SIGNUP NOW</a>
+				</form>
+			</div>
+    </div>
+</body>
+</html>
